@@ -18,3 +18,18 @@
  coletar os dados
  processar os dados (manipular, alterar ...)
  apresentar os dados
+
+  ## escopo e variaveis
+
+  Variaveis globais e locais
+  Constantes
+
+  ## tipos de dados:
+
+  Strings (textos): "" '' ``
+  number: 2   1.4
+  function 
+
+  ## operadores 
+  
+  Operadores de atribuiçao de valor
