@@ -68,3 +68,7 @@
 
   - importaçao de modulos (require, CommonJS)
   - Biblioteca 'inquirer' para criar prompts interativos 
+
+  ## programaçao assincrona e promises:
+
+    - uso de funçoes assincronas(asyn/await)
