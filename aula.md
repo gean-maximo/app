@@ -22,14 +22,36 @@
   ## escopo e variaveis
 
   Variaveis globais e locais
-  Constantes
+  Constantes 
 
   ## tipos de dados:
 
   Strings (textos): "" '' ``
   number: 2   1.4
-  function 
+  boolean: true, false 
+  
 
   ## operadores 
   
-  Operadores de atribuiçao de valor
+  Operadores de atribuiçao de valor =
+  Operador de concatenação  +
+ 
+  ## estruturaçao de dados:
+   
+
+  ## arrays:
+
+  Uma lista que contem qualquer tipo de dado 
+
+  ## Objetos:
+
+  Atributos e métodos
+  criaçao e manipulação de dados
+  Acesso a propriedade de objetos  
+  
+  
+  ### functions 
+
+  criar, passar argumento
+  executar
+  arrow function / named function
