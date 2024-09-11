@@ -59,3 +59,7 @@
   # estrutura de repetiçao
 
   - while
+
+  # condicionais 
+
+  - switch
