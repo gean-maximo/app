@@ -55,3 +55,7 @@
   criar, passar argumento
   executar
   arrow function / named function
+
+  # estrutura de repetiçao
+
+  - while
