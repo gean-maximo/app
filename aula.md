@@ -35,7 +35,8 @@
   
   Operadores de atribuiçao de valor =
   Operador de concatenação  +
-  operadores de comparaçao: == != <= >= < >
+  operadores de comparaçao: == != <= >= < > 
+  spread operator: ...
  
   ## estruturaçao de dados:
    
@@ -43,6 +44,7 @@
   ## arrays:
 
   Uma lista que contem qualquer tipo de dado 
+  metodos de array: push, [find, forEach, filter] :HOF (Higher Order Functions)
 
   ## Objetos:
 
