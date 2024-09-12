@@ -42,7 +42,7 @@ const listarMetas = async () => {
     
     respostas.forEach((respostas) => {
         const meta = metas.find((m) => {
-            return m.value == resposta 
+            return m.value == respostas 
         })
 
         meta.checked = true 
