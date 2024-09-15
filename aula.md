@@ -44,7 +44,7 @@
   ## arrays:
 
   Uma lista que contem qualquer tipo de dado 
-  metodos de array: push, [find, forEach, filter] :HOF (Higher Order Functions)
+  metodos de array: push, [find, forEach, filter, map] :HOF (Higher Order Functions)
 
   ## Objetos:
 
