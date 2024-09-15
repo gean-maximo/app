@@ -1,0 +1,14 @@
+[
+  {
+    "value": "tomar 3L de agua por dia",
+    "checked": true
+  },
+  {
+    "value": "ler 15 minutos por dia",
+    "checked": true
+  },
+  {
+    "value": "correr 20 minutos por dia",
+    "checked": false
+  }
+]
